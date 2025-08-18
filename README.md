@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad ahzamy firos tamam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahzamy firos tamam" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/muhammad ahzamy firos tamam](https://www.linkedin.com/in/muhammad-ahzamy-firos-tamam-1a9938340/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahzamy firos tamam" height="30" width="40" /></a>
 <a href="https://instagram.com/ahzamy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahzamy11" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kevyllgemang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevyllgemang" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/gynfhFwJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gynfhFwJ" height="30" width="40" /></a>
