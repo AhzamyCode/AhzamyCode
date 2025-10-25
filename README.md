@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-Hey there! I'm **Ahzamy**, a passionate **Fullstack Web Developer** who loves to build scalable apps, create clean APIs, and optimize server performance.  
+Hey there! I'm **Ahzamycode**, a passionate **Junior Fullstack Web Developer** who loves to build scalable apps, create clean APIs, and optimize server performance.  
 I enjoy exploring **Next.js, Node.js, PHP, Python**, and everything about web technologies — both frontend and backend.  
 
 - 🌱 Currently learning **Cloudflare Workers & advanced RESTful API development**
-- 💼 Working on several personal & freelance projects including **Kevyll API & FirOS Tools**
+- 💼 Working on several personal & freelance projects including **Kevyll API**
 - 🧠 Always improving my skills in **TypeScript** and **server optimization**
 - 🎮 In my free time, I love **gaming, modding OS, and creating YouTube content**
 
@@ -24,11 +24,11 @@ I enjoy exploring **Next.js, Node.js, PHP, Python**, and everything about web te
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
   &nbsp;
-  <a href="https://wa.me/6285793652834" target="_blank">
+  <a href="https://wa.me/6281210054051" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" />
   </a>
   &nbsp;
-  <a href="https://t.me/ahzamyfiros" target="_blank">
+  <a href="https://t.me/ahzamycode" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="30" />
   </a>
   &nbsp;
@@ -40,7 +40,7 @@ I enjoy exploring **Next.js, Node.js, PHP, Python**, and everything about web te
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/c/kevyllgemang" target="_blank">
+  <a href="https://www.youtube.com/c/codewithahzamy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   &nbsp;
@@ -82,11 +82,15 @@ I enjoy exploring **Next.js, Node.js, PHP, Python**, and everything about web te
 
 ---
 
-### ⚡ Fun Fact
-> I turned my old low-spec PC into a gaming beast using a custom OS build I called **FirOS** ⚙️🔥  
-> Also love experimenting with **servers, tunnels, and self-hosted APIs**!
-
----
-
 ⭐ **Let’s Connect & Collaborate!**  
-📧 **ahzamycode@gmail.com** | 💬 **t.me/ahzamyfiros** | 📱 **wa.me/6285793652834**
+<a href="mailto:ahzamycode@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6281210054051" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/ahzamycode" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="30" />
+  </a>
