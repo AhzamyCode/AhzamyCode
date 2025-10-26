@@ -53,7 +53,7 @@ A Junior Fullstack & API Developer From Indonesia
 
 ###
 
-<img src="https://raw.githubusercontent.com/AhzamyCode/AhzamyCode/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AhzamyCode/AhzamyCode/034a17d5ffb29815a3c954fe2017a72e2ebf8760/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
